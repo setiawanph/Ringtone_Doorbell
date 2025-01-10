@@ -6,7 +6,7 @@ const char pass[] = "#####";    // Network password (use for WPA, or use as key 
 
 const char server[] = "discordapp.com";
 const int port = 443;
-const String discord_webhook = "/api/webhooks/1325332605637496943/VZZy1uo-JqLtltkl_1pDUa4Bh8yFqyh7CxicRaOkXoJImugGQZ5bGRqX_Z7hoqN8YRvP";
+const String discord_webhook = "/api/webhooks/######/########";
 const String discord_tts = "true";
 
 int status = WL_IDLE_STATUS;
