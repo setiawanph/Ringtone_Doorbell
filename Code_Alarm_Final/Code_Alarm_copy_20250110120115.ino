@@ -18,8 +18,6 @@ int durations[] = {
   2
 };
 
-//String DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1325332605637496943/VZZy1uo-JqLtltkl_1pDUa4Bh8yFqyh7CxicRaOkXoJImugGQZ5bGRqX_Z7hoqN8YRvP";
-
 void setup() {
   Serial.begin(9600);
   pinMode(button, INPUT_PULLUP);
